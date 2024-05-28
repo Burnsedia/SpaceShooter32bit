@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Space 1.wav-8533eeb4282d7d898d28e9d0694870bf.sample"
+type="AudioStreamWAV"
+uid="uid://b2um7436vym0u"
+path="res://.godot/imported/Space 1.wav-8533eeb4282d7d898d28e9d0694870bf.sample"
 
 [deps]
 
 source_file="res://assets/Zane's Theremin Lasers/Long/Space 1.wav"
-dest_files=[ "res://.import/Space 1.wav-8533eeb4282d7d898d28e9d0694870bf.sample" ]
+dest_files=["res://.godot/imported/Space 1.wav-8533eeb4282d7d898d28e9d0694870bf.sample"]
 
 [params]
 

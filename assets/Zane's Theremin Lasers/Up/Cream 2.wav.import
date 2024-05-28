@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Cream 2.wav-45b35bdf55d88bc4d9e2590b8739fa2b.sample"
+type="AudioStreamWAV"
+uid="uid://b7iwc6xu1k6dk"
+path="res://.godot/imported/Cream 2.wav-45b35bdf55d88bc4d9e2590b8739fa2b.sample"
 
 [deps]
 
 source_file="res://assets/Zane's Theremin Lasers/Up/Cream 2.wav"
-dest_files=[ "res://.import/Cream 2.wav-45b35bdf55d88bc4d9e2590b8739fa2b.sample" ]
+dest_files=["res://.godot/imported/Cream 2.wav-45b35bdf55d88bc4d9e2590b8739fa2b.sample"]
 
 [params]
 

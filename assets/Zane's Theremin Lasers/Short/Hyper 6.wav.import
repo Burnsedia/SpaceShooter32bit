@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Hyper 6.wav-29820aa1eab8a4f567fe77cf3fd14ebb.sample"
+type="AudioStreamWAV"
+uid="uid://dhv3x80215bnf"
+path="res://.godot/imported/Hyper 6.wav-29820aa1eab8a4f567fe77cf3fd14ebb.sample"
 
 [deps]
 
 source_file="res://assets/Zane's Theremin Lasers/Short/Hyper 6.wav"
-dest_files=[ "res://.import/Hyper 6.wav-29820aa1eab8a4f567fe77cf3fd14ebb.sample" ]
+dest_files=["res://.godot/imported/Hyper 6.wav-29820aa1eab8a4f567fe77cf3fd14ebb.sample"]
 
 [params]
 

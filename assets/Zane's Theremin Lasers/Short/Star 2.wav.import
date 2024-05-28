@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Star 2.wav-e8bdf795b56ddd2487600d0ca6655c9d.sample"
+type="AudioStreamWAV"
+uid="uid://ddhqprjv2nwkl"
+path="res://.godot/imported/Star 2.wav-e8bdf795b56ddd2487600d0ca6655c9d.sample"
 
 [deps]
 
 source_file="res://assets/Zane's Theremin Lasers/Short/Star 2.wav"
-dest_files=[ "res://.import/Star 2.wav-e8bdf795b56ddd2487600d0ca6655c9d.sample" ]
+dest_files=["res://.godot/imported/Star 2.wav-e8bdf795b56ddd2487600d0ca6655c9d.sample"]
 
 [params]
 

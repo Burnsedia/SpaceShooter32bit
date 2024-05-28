@@ -1,0 +1,140 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1716932515
+default_env.tres::Environment::-1::1697308197::0::1::::<><>::
+Explosion.tscn::PackedScene::-1::1697308197::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1697308197::0::1::::<><>::
+Health.gd::GDScript::-1::1697308197::0::1::::<>RichTextLabel<>::
+icon.png::CompressedTexture2D::691716815269327889::1697308197::1716932515::1::::<><>::
+Main.gd::GDScript::-1::1697308197::0::1::::<>Spatial<>::
+Main.tscn::PackedScene::-1::1697308197::0::1::::<><>::res://Player/ufo.tscn<>res://RichTextLabel.gd<>res://Blender Imports/3D Space Shooter Assets/environment.png<>res://NPC/Spawner.gd<>res://Main.gd<>res://Health.gd
+README.md::TextFile::-1::1697308197::0::1::::<><>::
+RichTextLabel.gd::GDScript::-1::1697308197::0::1::::<>RichTextLabel<>::
+todo.txt::TextFile::-1::1716932498::0::1::::<><>::
+::res://assets/::1716932516
+light.material::StandardMaterial3D::-1::1697308197::0::1::::<><>::
+Metal.material::StandardMaterial3D::-1::1697308197::0::1::::<><>::
+ufo.glb::PackedScene::1221667185015372052::1697308197::1716932516::1::::<><>::
+::res://assets/Zane's Theremin Lasers/::1697308197
+::res://assets/Zane's Theremin Lasers/Long/::1716932515
+Cream 1.wav::AudioStreamWAV::5146133753689193524::1697308197::1716932515::1::::<><>::
+Cream 2.wav::AudioStreamWAV::90819777986527969::1697308197::1716932515::1::::<><>::
+Cream 3.wav::AudioStreamWAV::4784368811375007670::1697308197::1716932515::1::::<><>::
+Smooth 1.wav::AudioStreamWAV::818407166242751587::1697308197::1716932515::1::::<><>::
+Smooth 2.wav::AudioStreamWAV::5394816911033049819::1697308197::1716932515::1::::<><>::
+Smooth 3.wav::AudioStreamWAV::8402073073791395370::1697308197::1716932515::1::::<><>::
+Smooth 4.wav::AudioStreamWAV::5575729316452390427::1697308197::1716932515::1::::<><>::
+Smooth 5.wav::AudioStreamWAV::2442383987673865635::1697308197::1716932515::1::::<><>::
+Smooth 6.wav::AudioStreamWAV::5721267428697095801::1697308197::1716932515::1::::<><>::
+Smooth 7.wav::AudioStreamWAV::4020718679076001916::1697308197::1716932515::1::::<><>::
+Smooth 8.wav::AudioStreamWAV::5533066271443750036::1697308197::1716932515::1::::<><>::
+Smooth 9.wav::AudioStreamWAV::8889226821115572403::1697308197::1716932515::1::::<><>::
+Smooth 10.wav::AudioStreamWAV::4661128053687575718::1697308197::1716932515::1::::<><>::
+Space 1.wav::AudioStreamWAV::4323594334188522246::1697308197::1716932515::1::::<><>::
+Space 2.wav::AudioStreamWAV::625338278767205439::1697308197::1716932515::1::::<><>::
+Space 3.wav::AudioStreamWAV::6710326361291601609::1697308197::1716932515::1::::<><>::
+Space 4.wav::AudioStreamWAV::1790670669318267336::1697308197::1716932515::1::::<><>::
+Space 5.wav::AudioStreamWAV::2057182386911555101::1697308197::1716932515::1::::<><>::
+Spirit 1.wav::AudioStreamWAV::7458622634651905575::1697308197::1716932515::1::::<><>::
+Spirit 2.wav::AudioStreamWAV::3174787571345323484::1697308197::1716932515::1::::<><>::
+Spirit 3.wav::AudioStreamWAV::3015846389449962258::1697308197::1716932515::1::::<><>::
+Spirit 4.wav::AudioStreamWAV::89528077014950491::1697308197::1716932515::1::::<><>::
+Spirit 5.wav::AudioStreamWAV::8496282406227489844::1697308197::1716932515::1::::<><>::
+Spirit 6.wav::AudioStreamWAV::3699658433430387375::1697308197::1716932515::1::::<><>::
+::res://assets/Zane's Theremin Lasers/Short/::1716932515
+Hyper 1.wav::AudioStreamWAV::6721899021044039521::1697308197::1716932515::1::::<><>::
+Hyper 2.wav::AudioStreamWAV::9208264154339101456::1697308197::1716932515::1::::<><>::
+Hyper 3.wav::AudioStreamWAV::4770692185057903745::1697308197::1716932515::1::::<><>::
+Hyper 4.wav::AudioStreamWAV::1615323175559594813::1697308197::1716932515::1::::<><>::
+Hyper 5.wav::AudioStreamWAV::1250928672780120336::1697308197::1716932515::1::::<><>::
+Hyper 6.wav::AudioStreamWAV::7695678811591405811::1697308197::1716932515::1::::<><>::
+Hyper 7.wav::AudioStreamWAV::4027569456808831683::1697308197::1716932515::1::::<><>::
+Sharp 1.wav::AudioStreamWAV::7940642490828501094::1697308197::1716932515::1::::<><>::
+Sharp 2.wav::AudioStreamWAV::4057652036035374783::1697308197::1716932515::1::::<><>::
+Smooth 1.wav::AudioStreamWAV::4519799263280223671::1697308197::1716932515::1::::<><>::
+Smooth 2.wav::AudioStreamWAV::8682213833900375012::1697308197::1716932515::1::::<><>::
+Smooth 3.wav::AudioStreamWAV::9205276898765063627::1697308197::1716932515::1::::<><>::
+Smooth 4.wav::AudioStreamWAV::2551387792363325978::1697308197::1716932515::1::::<><>::
+Smooth 5.wav::AudioStreamWAV::4311210433211295901::1697308197::1716932515::1::::<><>::
+Smooth 6.wav::AudioStreamWAV::4316243590557785918::1697308197::1716932515::1::::<><>::
+Smooth 7.wav::AudioStreamWAV::7917210369218194556::1697308197::1716932515::1::::<><>::
+Smooth 8.wav::AudioStreamWAV::8069496542006504815::1697308197::1716932515::1::::<><>::
+Smooth 9.wav::AudioStreamWAV::5091979543393532714::1697308197::1716932515::1::::<><>::
+Smooth 10.wav::AudioStreamWAV::1054622615853975848::1697308197::1716932515::1::::<><>::
+Smooth 11.wav::AudioStreamWAV::5128943031268367231::1697308197::1716932515::1::::<><>::
+Smooth 12.wav::AudioStreamWAV::8047263557494091378::1697308197::1716932515::1::::<><>::
+Smooth 13.wav::AudioStreamWAV::392629191618729745::1697308197::1716932515::1::::<><>::
+Smooth 14.wav::AudioStreamWAV::3879299304289231742::1697308197::1716932515::1::::<><>::
+Smooth 15.wav::AudioStreamWAV::3545825790015982722::1697308197::1716932515::1::::<><>::
+Smooth 16.wav::AudioStreamWAV::6632582969082448352::1697308197::1716932515::1::::<><>::
+Smooth 17.wav::AudioStreamWAV::2121709884857096102::1697308197::1716932515::1::::<><>::
+Smooth 18.wav::AudioStreamWAV::100845982539002146::1697308197::1716932515::1::::<><>::
+Space 1.wav::AudioStreamWAV::6791174913115977745::1697308197::1716932515::1::::<><>::
+Space 2.wav::AudioStreamWAV::1304875839596350849::1697308197::1716932515::1::::<><>::
+Space 3.wav::AudioStreamWAV::7044708968002805471::1697308197::1716932515::1::::<><>::
+Space 4.wav::AudioStreamWAV::994638719135349882::1697308197::1716932515::1::::<><>::
+Space 5.wav::AudioStreamWAV::1801288936489469677::1697308197::1716932515::1::::<><>::
+Space 6.wav::AudioStreamWAV::2213093585798887442::1697308197::1716932515::1::::<><>::
+Space 7.wav::AudioStreamWAV::6969561625469786047::1697308197::1716932515::1::::<><>::
+Space 8.wav::AudioStreamWAV::2365185380084058093::1697308197::1716932515::1::::<><>::
+Space 9.wav::AudioStreamWAV::691051280163697568::1697308197::1716932515::1::::<><>::
+Space 10.wav::AudioStreamWAV::9015205169737002961::1697308197::1716932515::1::::<><>::
+Space 11.wav::AudioStreamWAV::3508740797530605388::1697308197::1716932515::1::::<><>::
+Space 12.wav::AudioStreamWAV::6216605492205135754::1697308197::1716932515::1::::<><>::
+Star 1.wav::AudioStreamWAV::4721226702342864274::1697308197::1716932515::1::::<><>::
+Star 2.wav::AudioStreamWAV::7385278392855609519::1697308197::1716932515::1::::<><>::
+::res://assets/Zane's Theremin Lasers/Up/::1716932515
+Cream 1.wav::AudioStreamWAV::8865414368511811201::1697308197::1716932515::1::::<><>::
+Cream 2.wav::AudioStreamWAV::4650319712269525788::1697308197::1716932515::1::::<><>::
+Cream 3.wav::AudioStreamWAV::2444952792567923997::1697308197::1716932515::1::::<><>::
+Smooth 1.wav::AudioStreamWAV::2854346901902732214::1697308197::1716932515::1::::<><>::
+Smooth 2.wav::AudioStreamWAV::8743798344704788509::1697308197::1716932515::1::::<><>::
+Smooth 3.wav::AudioStreamWAV::2138016354670042923::1697308197::1716932515::1::::<><>::
+Smooth 4.wav::AudioStreamWAV::2247565723556448115::1697308197::1716932515::1::::<><>::
+Smooth 5.wav::AudioStreamWAV::6714924385628379917::1697308197::1716932515::1::::<><>::
+Smooth 6.wav::AudioStreamWAV::3075655012422233767::1697308197::1716932515::1::::<><>::
+Smooth 7.wav::AudioStreamWAV::711907010706726550::1697308197::1716932515::1::::<><>::
+Smooth 8.wav::AudioStreamWAV::6029023863628672907::1697308197::1716932515::1::::<><>::
+Space 1.wav::AudioStreamWAV::2336974233559429516::1697308197::1716932515::1::::<><>::
+Space 2.wav::AudioStreamWAV::1732741017982475740::1697308197::1716932515::1::::<><>::
+Space 3.wav::AudioStreamWAV::6285698143146162260::1697308197::1716932515::1::::<><>::
+Space 4.wav::AudioStreamWAV::5653138116896738726::1697308197::1716932515::1::::<><>::
+Space 5.wav::AudioStreamWAV::4468298962977873634::1697308197::1716932515::1::::<><>::
+Spirit 1.wav::AudioStreamWAV::4688913678391081009::1697308197::1716932515::1::::<><>::
+Spirit 2.wav::AudioStreamWAV::9009303293909858386::1697308197::1716932515::1::::<><>::
+::res://Blender Imports/::1697308197
+::res://Blender Imports/3D Space Shooter Assets/::1716932515
+crosshair1.png::CompressedTexture2D::7301333976401886044::1697308197::1716932519::1::::<><>::
+crosshair2.png::CompressedTexture2D::6591011019728893778::1697308197::1716932519::1::::<><>::
+environment.png::CompressedTexture2D::858809776867846044::1697308197::1716932515::1::::<><>::
+explosion.wav::AudioStreamWAV::3860932762247832202::1697308197::1716932515::1::::<><>::
+laser.wav::AudioStreamWAV::1723004220489050946::1697308197::1716932515::1::::<><>::
+::res://Blender Imports/3D Space Shooter Assets/Blender Imports/::1716932516
+Base Gray.material::StandardMaterial3D::-1::1697308197::0::1::::<><>::
+Base.material::StandardMaterial3D::-1::1697308197::0::1::::<><>::
+Black Glass.material::StandardMaterial3D::-1::1697308197::0::1::::<><>::
+Booster.material::StandardMaterial3D::-1::1697308197::0::1::::<><>::
+enemy.gltf::PackedScene::1824091211039866578::1697308197::1716932516::1::::<><>::
+Material.material::StandardMaterial3D::-1::1697308197::0::1::::<><>::
+player.gltf::PackedScene::7612029587163460119::1697308197::1716932516::1::::<><>::
+Wing Blue.material::StandardMaterial3D::-1::1697308197::0::1::::<><>::
+Wing.material::StandardMaterial3D::-1::1697308197::0::1::::<><>::
+::res://Bullet/::1697308197
+Bullet.gd::GDScript::-1::1697308197::0::1::::<>Area<>::
+Bullet.tscn::PackedScene::-1::1697308197::0::1::::<><>::res://Bullet/Bullet.gd
+GUN.gd::GDScript::-1::1697308197::0::1::::<>Spatial<>::
+GUN.tscn::PackedScene::-1::1697308197::0::1::::<><>::res://Bullet/GUN.gd<>res://assets/Zane's Theremin Lasers/Short/Space 9.wav
+::res://Export/::1697308197
+::res://Export/android/::1697308197
+::res://Globals/::1697308197
+Events.gd::GDScript::-1::1697308197::0::1::::<>Node<>::
+Glabals.gd::GDScript::-1::1697308197::0::1::::<>Node<>::
+::res://NPC/::1697308197
+Spawner.gd::GDScript::-1::1697308197::0::1::::<>Spatial<>::
+::res://NPC/SWARM/::1697308197
+Impact.gd::GDScript::-1::1697308197::0::1::::<>Area<>::
+SwarmEnemy.gd::GDScript::-1::1697308197::0::1::::<>KinematicBody<>::
+SwarmEnemy.tscn::PackedScene::-1::1697308197::0::1::::<><>::res://Blender Imports/3D Space Shooter Assets/Blender Imports/Material.material<>res://Blender Imports/3D Space Shooter Assets/Blender Imports/Wing.material<>res://Blender Imports/3D Space Shooter Assets/Blender Imports/Base.material<>res://NPC/SWARM/SwarmEnemy.gd<>res://NPC/SWARM/Impact.gd
+::res://Player/::1697308197
+player.gd::GDScript::-1::1697308197::0::1::::Player<>KinematicBody<>::
+player.tscn::PackedScene::-1::1697308197::0::1::::<><>::res://Blender Imports/3D Space Shooter Assets/Blender Imports/Black Glass.material<>res://Blender Imports/3D Space Shooter Assets/Blender Imports/Wing Blue.material<>res://Blender Imports/3D Space Shooter Assets/Blender Imports/Base Gray.material<>res://Blender Imports/3D Space Shooter Assets/Blender Imports/Booster.material<>res://Player/player.gd<>res://Bullet/GUN.tscn
+ufo.tscn::PackedScene::-1::1697308197::0::1::::<><>::res://assets/light.material<>res://assets/Metal.material<>res://Player/player.gd<>res://Bullet/GUN.tscn<>res://Blender Imports/3D Space Shooter Assets/crosshair1.png<>res://Blender Imports/3D Space Shooter Assets/crosshair2.png

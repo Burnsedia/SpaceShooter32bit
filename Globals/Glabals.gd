@@ -1,10 +1,10 @@
 extends Node
 
 
-func _ready():
-	Events.connect("GameOVER", self, "setGameOver")
-	Events.connect("WAVEMODE", self, "setWaveMode")
-	Events.connect("BOSSMODE",self, "setBossMode")
+#func _ready():
+	#Events.connect("GameOVER", self, "setGameOver")
+	#Events.connect("WAVEMODE", self, "setWaveMode")
+	#Events.connect("BOSSMODE",self, "setBossMode")
 	
 enum States {
 	BOSSMODE,

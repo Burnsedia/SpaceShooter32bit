@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/explosion.wav-dd886fd640606330ea660bfedcf50c0b.sample"
+type="AudioStreamWAV"
+uid="uid://bvai87jia30ta"
+path="res://.godot/imported/explosion.wav-dd886fd640606330ea660bfedcf50c0b.sample"
 
 [deps]
 
 source_file="res://Blender Imports/3D Space Shooter Assets/explosion.wav"
-dest_files=[ "res://.import/explosion.wav-dd886fd640606330ea660bfedcf50c0b.sample" ]
+dest_files=["res://.godot/imported/explosion.wav-dd886fd640606330ea660bfedcf50c0b.sample"]
 
 [params]
 

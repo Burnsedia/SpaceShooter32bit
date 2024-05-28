@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/laser.wav-0aa28c9d7fe0906294ffb7ad59240230.sample"
+type="AudioStreamWAV"
+uid="uid://ysvvlyfr1vsk"
+path="res://.godot/imported/laser.wav-0aa28c9d7fe0906294ffb7ad59240230.sample"
 
 [deps]
 
 source_file="res://Blender Imports/3D Space Shooter Assets/laser.wav"
-dest_files=[ "res://.import/laser.wav-0aa28c9d7fe0906294ffb7ad59240230.sample" ]
+dest_files=["res://.godot/imported/laser.wav-0aa28c9d7fe0906294ffb7ad59240230.sample"]
 
 [params]
 

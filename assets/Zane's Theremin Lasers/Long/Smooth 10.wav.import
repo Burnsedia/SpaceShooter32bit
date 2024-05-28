@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Smooth 10.wav-63fd344967434e87d60b31b23b8a14f5.sample"
+type="AudioStreamWAV"
+uid="uid://b7n5dlls60fcw"
+path="res://.godot/imported/Smooth 10.wav-63fd344967434e87d60b31b23b8a14f5.sample"
 
 [deps]
 
 source_file="res://assets/Zane's Theremin Lasers/Long/Smooth 10.wav"
-dest_files=[ "res://.import/Smooth 10.wav-63fd344967434e87d60b31b23b8a14f5.sample" ]
+dest_files=["res://.godot/imported/Smooth 10.wav-63fd344967434e87d60b31b23b8a14f5.sample"]
 
 [params]
 

@@ -1,0 +1,11 @@
+res://Main.tscn
+res://NPC/Spawner.gd
+res://Main.gd
+res://Player/ufo.tscn
+res://Player/player.gd
+res://Bullet/GUN.tscn
+res://Bullet/GUN.gd
+res://NPC/SWARM/Impact.gd
+res://NPC/SWARM/SwarmEnemy.gd
+res://Globals/Glabals.gd
+res://Bullet/Bullet.gd

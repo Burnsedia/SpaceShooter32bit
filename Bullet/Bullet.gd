@@ -1,8 +1,8 @@
-extends Area
+extends Area3D
 
 
-export var damage = 5
-export var speed = 1
+@export var damage = 5
+@export var speed = 1
 
 # Called when the node enters the scene tree for the first time.
 func _ready():

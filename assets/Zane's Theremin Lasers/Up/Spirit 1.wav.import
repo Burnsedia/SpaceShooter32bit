@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Spirit 1.wav-d35e4eff9605cc82fed015027d99d35b.sample"
+type="AudioStreamWAV"
+uid="uid://b72lyubut7o5n"
+path="res://.godot/imported/Spirit 1.wav-d35e4eff9605cc82fed015027d99d35b.sample"
 
 [deps]
 
 source_file="res://assets/Zane's Theremin Lasers/Up/Spirit 1.wav"
-dest_files=[ "res://.import/Spirit 1.wav-d35e4eff9605cc82fed015027d99d35b.sample" ]
+dest_files=["res://.godot/imported/Spirit 1.wav-d35e4eff9605cc82fed015027d99d35b.sample"]
 
 [params]
 

@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Sharp 2.wav-1decf6e492edd5d9d1023677ba4e3571.sample"
+type="AudioStreamWAV"
+uid="uid://bx2s63ir60obn"
+path="res://.godot/imported/Sharp 2.wav-1decf6e492edd5d9d1023677ba4e3571.sample"
 
 [deps]
 
 source_file="res://assets/Zane's Theremin Lasers/Short/Sharp 2.wav"
-dest_files=[ "res://.import/Sharp 2.wav-1decf6e492edd5d9d1023677ba4e3571.sample" ]
+dest_files=["res://.godot/imported/Sharp 2.wav-1decf6e492edd5d9d1023677ba4e3571.sample"]
 
 [params]
 

@@ -1,9 +1,9 @@
-extends Spatial
+extends Node3D
 
 
 var BULLET =  preload("res://Bullet/Bullet.tscn")
 var main
-onready var sournd = $AudioStreamPlayer
+@onready var sournd = $AudioStreamPlayer
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	main = get_tree().current_scene

@@ -1,4 +1,4 @@
-extends KinematicBody
+extends CharacterBody3D
 class_name Player
 
 const COOLDOWN = 8
@@ -18,7 +18,7 @@ func _physics_process(delta):
 	rotation_degrees.z = velo.x * -2
 	rotation_degrees.x = velo.y / 2
 	rotation_degrees.y = -velo.x / 2
-	move_and_slide(velo)
+	move_and_collide(velo)
 	transform.origin.x = clamp(transform.origin.x, -15, 15)
 	transform.origin.y = clamp(transform.origin.y, -10, 10)
 	
